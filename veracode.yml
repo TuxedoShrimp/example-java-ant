@@ -1,3 +1,0 @@
-veracode_sca_scan:
-  push:
-    trigger: false
